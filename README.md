@@ -8,3 +8,8 @@ Simple langflow flow for assistance in work with documents, consisting of google
 
 # Project structure
 ![Alt text](Screenshots/Project_structure.png?raw=true "Project structure")
+
+# How to run
+1. Install langflow - https://docs.langflow.org/get-started-installation
+2. Install Flow/Thesis RAG LLM.json from this repository
+3. Import project in langflow - https://docs.langflow.org/concepts-flows-import
